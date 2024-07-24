@@ -1,0 +1,14 @@
+C:\Users\INTERNET\source\repos\exercise.9.7.cs\exercise.9.7.cs\obj\Debug\net8.0\exercise.9.7.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTERNET\source\repos\exercise.9.7.cs\exercise.9.7.cs\obj\Debug\net8.0\exercise.9.7.cs.AssemblyInfoInputs.cache
+C:\Users\INTERNET\source\repos\exercise.9.7.cs\exercise.9.7.cs\obj\Debug\net8.0\exercise.9.7.cs.AssemblyInfo.cs
+C:\Users\INTERNET\source\repos\exercise.9.7.cs\exercise.9.7.cs\obj\Debug\net8.0\exercise.9.7.cs.csproj.CoreCompileInputs.cache
+C:\Users\INTERNET\source\repos\exercise.9.7.cs\exercise.9.7.cs\bin\Debug\net8.0\exercise.9.7.cs.exe
+C:\Users\INTERNET\source\repos\exercise.9.7.cs\exercise.9.7.cs\bin\Debug\net8.0\exercise.9.7.cs.deps.json
+C:\Users\INTERNET\source\repos\exercise.9.7.cs\exercise.9.7.cs\bin\Debug\net8.0\exercise.9.7.cs.runtimeconfig.json
+C:\Users\INTERNET\source\repos\exercise.9.7.cs\exercise.9.7.cs\bin\Debug\net8.0\exercise.9.7.cs.dll
+C:\Users\INTERNET\source\repos\exercise.9.7.cs\exercise.9.7.cs\bin\Debug\net8.0\exercise.9.7.cs.pdb
+C:\Users\INTERNET\source\repos\exercise.9.7.cs\exercise.9.7.cs\obj\Debug\net8.0\exercise.9.7.cs.dll
+C:\Users\INTERNET\source\repos\exercise.9.7.cs\exercise.9.7.cs\obj\Debug\net8.0\refint\exercise.9.7.cs.dll
+C:\Users\INTERNET\source\repos\exercise.9.7.cs\exercise.9.7.cs\obj\Debug\net8.0\exercise.9.7.cs.pdb
+C:\Users\INTERNET\source\repos\exercise.9.7.cs\exercise.9.7.cs\obj\Debug\net8.0\exercise.9.7.cs.genruntimeconfig.cache
+C:\Users\INTERNET\source\repos\exercise.9.7.cs\exercise.9.7.cs\obj\Debug\net8.0\ref\exercise.9.7.cs.dll
